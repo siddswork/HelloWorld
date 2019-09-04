@@ -1,4 +1,4 @@
-# HelloWorld
-Git HelloWorld
+# Next Level Git - Master your workflow
+Web Session
 
-By Sidd
+By Brent Laster
